@@ -1,0 +1,53 @@
+id,state,abbr,WorkFromHome,ExercisePastMonth
+1,Alabama,AL,2.9,72.4
+2,Alaska,AK,3.9,80.8
+4,Arizona,AZ,5.7,78.8
+5,Arkansas,AR,3.3,69.4
+6,California,CA,5.4,78.3
+8,Colorado,CO,6.5,83.6
+9,Connecticut,CT,4.6,79.4
+10,Delaware,DE,4.4,75.1
+11,District of Columbia,DC,5,79.2
+12,Florida,FL,5.4,76.3
+13,Georgia,GA,5,76.4
+15,Hawaii,HI,4.5,80.4
+16,Idaho,ID,6.2,81.3
+17,Illinois,IL,4.4,76.1
+18,Indiana,IN,3.4,73.9
+19,Iowa,IA,4.8,77.4
+20,Kansas,KS,4,76.2
+21,Kentucky,KY,3.2,71.8
+22,Louisiana,LA,2.6,70.5
+23,Maine,ME,5.4,80.3
+24,Maryland,MD,4.1,78.6
+25,Massachusetts,MA,4.8,79.9
+26,Michigan,MI,3.7,74.5
+27,Minnesota,MN,5.1,79.8
+28,Mississippi,MS,2.3,68.4
+29,Missouri,MO,4.4,75
+30,Montana,MT,7.1,80.4
+31,Nebraska,NE,4,78.7
+32,Nevada,NV,3.2,77.5
+33,New Hampshire,NH,6,80.7
+34,New Jersey,NJ,4.2,76.7
+35,New Mexico,NM,4.8,76.7
+36,New York,NY,3.9,74.1
+37,North Carolina,NC,4.7,76.8
+38,North Dakota,ND,5.3,78.7
+39,Ohio,OH,3.6,75.1
+40,Oklahoma,OK,3.6,71.7
+41,Oregon,OR,6.4,83.5
+42,Pennsylvania,PA,4.1,76.7
+44,Rhode Island,RI,3.8,77.5
+45,South Carolina,SC,3.4,74.7
+46,South Dakota,SD,5.5,78.8
+47,Tennessee,TN,3.7,73.2
+48,Texas,TX,4,72.4
+49,Utah,UT,5.5,83.2
+50,Vermont,VT,7.1,81
+51,Virginia,VA,4.4,76.5
+53,Washington,WA,5.5,81.9
+54,West Virginia,WV,2.5,71.3
+55,Wisconsin,WI,4.1,78.8
+56,Wyoming,WY,4.8,77.9
+72,Puerto Rico,PR,1.9,59.4

@@ -1,0 +1,11 @@
+.axisText {
+  font-family: sans-serif;
+  font-weight: bold;
+  fill: black;
+  text-anchor: middle;
+}
+
+p {
+  padding-left: 100px;
+  padding-right: 100px;
+}
